@@ -1,6 +1,6 @@
 require 'pry'
 
-def my_all?(collection)
+def my_all?(collection)lear
 i = 0
 block_return_values = []
 while i < collection.length
@@ -14,4 +14,4 @@ else
   true
 end
 end
-S
+
